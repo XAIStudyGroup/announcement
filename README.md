@@ -1,1 +1,1 @@
-# announcement
+# XAI Study Group Announcement
