@@ -1,6 +1,6 @@
 ## Welcome to the Explainable AI Study Group at iSchool, UIUC
 
-Explainable AI study group aims to create a low-pressure, peer-mentoring learning space for students to get together and learn explainable AI (XAI) techniques. We exercise Feynmann's method of learning (i.e., learning by teaching) in this group. For each session, one instructor will walk the audience through an example of an explainable AI method. Unlike conventional reading groups, this group emphasizes hands-on learning. And learners do not need to prepare before the sessions. We will "open our doors" in **Spring 2022**.
+Explainable AI study group aims to create a low-pressure, peer-mentoring learning space for students to get together and learn explainable AI (XAI) techniques. We exercise Feynmann's method of learning (i.e., learning by teaching) in this group. For each session, one instructor will walk the audience through an example of an explainable AI method. Unlike conventional reading groups, this group emphasizes hands-on learning. And learners do not need to prepare before the sessions. We will "open our doors" in **Spring 2022**. You are welcome to "watch" this repository for any updates.
 
 ## Sessions
 - [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Overview of Interpretability (Jan 29, 2022)
