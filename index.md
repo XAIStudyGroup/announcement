@@ -1,9 +1,12 @@
 ## Welcome to the Explainable AI Study Group at iSchool, UIUC
 
-Explainable AI study group aims to create a low-pressure, peer-mentoring learning space for students to get together and learn explainable AI (XAI) techniques. We exercise Feynmann's method of learning (i.e., learning by teaching) in this group. For each session, one instructor will walk the audience through an example of an explainable AI method. Unlike conventional reading groups, this group emphasizes hands-on learning. And learners do not need to prepare before the sessions. We are in the process of learning-module development. We expect to “open our door” to learners in **Spring 2022**. Projected sessions include:
+Explainable AI study group aims to create a low-pressure, peer-mentoring learning space for students to get together and learn explainable AI (XAI) techniques. We exercise Feynmann's method of learning (i.e., learning by teaching) in this group. For each session, one instructor will walk the audience through an example of an explainable AI method. Unlike conventional reading groups, this group emphasizes hands-on learning. And learners do not need to prepare before the sessions. We will "open our doors" in **Spring 2022**.
 
+## Sessions
 - [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Overview of Interpretability (Jan 29, 2022)
 - [Malik Salami](https://ischool.illinois.edu/people/malik-salami): Explain Linear Regression Model and [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Explain Logistic Regression Model (Feb 12, 2022)
 - [Jaihyun Park](https://ischool.illinois.edu/people/jaihyun-park): Explain Decision Tree Model (Feb 26, 2022)
 - One more advanced XAI technique (TBD)(Mar 5, 2022)
 
+## Prerequisite  
+To attend our sessions, you only need to have two types of IDEs (Integrated programming environment) installed on your computer and know how to use them. One for R and one for Python, since we allow instructors to choose which language they want to code their examples in.
