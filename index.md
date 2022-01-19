@@ -4,7 +4,7 @@ Explainable AI study group aims to create a low-pressure, peer-mentoring learnin
 
 ## Sessions
 - [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Overview of Interpretability (Jan 29, 2022)[Registration](https://illinois.zoom.us/meeting/register/tZcvdO2orT0pEtcaJjnNYbVH8oamISt4gCVR)
-- [Malik Salami](https://ischool.illinois.edu/people/malik-salami): Explain Linear Regression Model and [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Explain Logistic Regression Model (Feb 12, 2022)
+- [Malik Salami](https://ischool.illinois.edu/people/malik-salami): Explain Linear Regression Model and [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Explain Logistic Regression Model (Feb 12, 2022) [Registration](https://illinois.zoom.us/meeting/register/tZ0oceirrzkjE9Bih4Cye6H1KvWVhbNUFIZk)
 - [Jaihyun Park](https://ischool.illinois.edu/people/jaihyun-park): Explain Decision Tree Model (Feb 26, 2022)
 - One more advanced XAI technique (TBD)(Mar 5, 2022)
 
