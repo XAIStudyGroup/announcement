@@ -12,11 +12,7 @@ Explainable AI study group aims to create a low-pressure, peer-mentoring learnin
 To attend our sessions, you only need to have two types of IDEs (Integrated programming environment) installed on your computer and know how to use them. One for R and one for Python, since we allow instructors to choose which language they want to code their examples in. No prior experience in ML is needed, but having it is a plus.
 
 ## Instructors  
-Since this is a peer-mentoring learning space, we do not hold instructors to the same high standard for a real classroom. You have two options on how to lead your session.  
-1. Demonstrate the method: You can choose a method, code a working example of using this method to explain your machine learning or deep learning model, and show how you do it to the audience. This one takes less effort.
-2. Explain your model: Pretend the audience is a group a stakeholders. They are eager to know more about the cool model you have built. You will prepare a presentation to explain the model. This is the harder option, but you will gain the valuable experience of actually "explaining" your model.
-
-**Why there are two options?** Interpretations does not immediate lend to human-understandable explanations. I added the second option so that some of us can actually practice "explanation" and understand its pitfalls. 
+Since this is a peer-mentoring learning space, we do not hold instructors to the same high standard for a real classroom. You can choose a method, code a working example of using this method to explain your machine learning or deep learning model, and show how you do it to the audience. We will post videos of sample teaching in the future. 
 
 We welcome any upper-level undergraduate students, master's students, and PhD students to try on the role of instructors. Develop your code on your own and let me know when the repository is ready to be forked.  
 
@@ -24,4 +20,9 @@ We welcome any upper-level undergraduate students, master's students, and PhD st
 Open an issue in this repository, so we will see it. 
 
 ## Q&A
+### What is the end goal of this study group? 
+
+### What skills will I gain?
+
+### What is the format of this study group?
 
