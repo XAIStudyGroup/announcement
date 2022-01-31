@@ -22,7 +22,9 @@ Open an issue in this repository, so we will see it.
 ## Q&A
 ### What is the end goal of this study group? 
 
-### What skills will I gain?
+
+### What skills will I gain?  
+As a learner, you will learn techniques that can be used to explain your own machine learning or deep learning models. As an instructor, you learn teaching skills, curriculum development skills, and the experience of working with a diverse group of learners. 
 
 ### What is the format of this study group?
-
+For each session, one instructor will walk the audience through a working example of an explainable AI method (see the list here) by live-coding and explanations. The audience can code along or just watch how the instructor does it. 
