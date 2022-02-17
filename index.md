@@ -12,8 +12,9 @@ Explainable AI study group aims to create a low-pressure, peer-mentoring learnin
 To attend our sessions, you only need to have two types of IDEs (Integrated programming environment) installed on your computer and know how to use them. One for R and one for Python, since we allow instructors to choose which language they want to code their examples in. No prior experience in ML is needed, but having it is a plus.
 
 ## Logistics  
-If you would like to recieve updates on our sessions, please make sure you are a viewer of the "XAI study group documentation" in Box. I use Box's "mail all" function to update your about upcoming events, and I keep information that I don't feel comfortable putting on GitHub on the Box documentation (closed membership), such as Zoom session recordings.  
-[GitHub Home](https://github.com/XAIStudyGroup)
+If you would like to recieve updates on our sessions, please make sure you are a viewer of the "XAI study group documentation" in Box. I use Box's "mail all" function to update your about upcoming events, and I keep information that I don't feel comfortable putting on GitHub on the Box documentation (closed membership), such as Zoom session recordings.
+
+To view all the repositories contributed by our instructors, please visit our [GitHub Home](https://github.com/XAIStudyGroup)
 
 ## Instructors  
 Since this is a peer-mentoring learning space, we do not hold instructors to the same high standard for a real classroom. You can choose a method, code a working example of using this method to explain your machine learning or deep learning model, and show how you do it to the audience. You also need to demonstrate **how this technique help you to understand your model better**. We will post videos of sample teaching in the future. 
