@@ -6,7 +6,7 @@ Explainable AI study group aims to create a low-pressure, peer-mentoring learnin
 - [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Overview of Interpretability (Jan 29, 2022) [**Registration**](https://illinois.zoom.us/meeting/register/tZcvdO2orT0pEtcaJjnNYbVH8oamISt4gCVR)
 - [Malik Salami](https://ischool.illinois.edu/people/malik-salami): Explain Linear Regression Model and [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Explain Logistic Regression Model (Feb 12, 2022) [**Registration**](https://illinois.zoom.us/meeting/register/tZ0oceirrzkjE9Bih4Cye6H1KvWVhbNUFIZk)
 - [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Explain Decision Tree Model (Feb 26, 2022) [**Registration**](https://illinois.zoom.us/meeting/register/tZMkdO-rpjIoGtP6ju6PSOp7DRLmgQbtkxST)
-- One more advanced XAI technique (TBD)(Mar 5, 2022 or TBD after the spring break)
+- [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Local interpretable model-agnostic explanations (LIME)(Apr 2, 2022)[**Registration**](https://illinois.zoom.us/meeting/register/tZYsceCoqz8iGdylrZ9EFqIX1A_09f_4-Syx)
 
 ## Prerequisite  
 To attend our sessions, you only need to have two types of IDEs (Integrated programming environment) installed on your computer and know how to use them. One for R and one for Python, since we allow instructors to choose which language they want to code their examples in. No prior experience in ML is needed, but having it is a plus.
