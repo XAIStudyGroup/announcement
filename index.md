@@ -37,3 +37,6 @@ As a learner, you will learn techniques that can be used to explain your own mac
 
 ### What is the format of this study group?
 For each session, one instructor will walk the audience through a working example of an explainable AI method (see the list here). The audience can code along or just watch how the instructor does it. 
+
+## Privacy
+Recordings are kept for 30 days, and links are only available to group members. As a foresight, publications using teaching experience in our group are strictly prohibited.  
