@@ -3,6 +3,10 @@
 Explainable AI study group aims to create a low-pressure, peer-mentoring learning space for students to learn and practice explainable AI (XAI) techniques. For each session, one instructor will walk the audience through a working example of an explainable AI method. Unlike conventional reading groups, this group emphasizes hands-on learning. And learners do not need to prepare before the sessions. You are welcome to "watch" this repository for any updates.
 
 ## Sessions
+### Fall 2022
+coming soon
+
+### Spring 2022
 - [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Overview of Interpretability (Jan 29, 2022) [**Registration**](https://illinois.zoom.us/meeting/register/tZcvdO2orT0pEtcaJjnNYbVH8oamISt4gCVR)
 - [Malik Salami](https://ischool.illinois.edu/people/malik-salami): Explain Linear Regression Model and [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Explain Logistic Regression Model (Feb 12, 2022) [**Registration**](https://illinois.zoom.us/meeting/register/tZ0oceirrzkjE9Bih4Cye6H1KvWVhbNUFIZk)
 - [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Explain Decision Tree Model (Feb 26, 2022) [**Registration**](https://illinois.zoom.us/meeting/register/tZMkdO-rpjIoGtP6ju6PSOp7DRLmgQbtkxST)
