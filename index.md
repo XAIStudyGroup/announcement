@@ -21,7 +21,7 @@ If you would like to recieve updates on our sessions, please make sure you are a
 To view all the repositories contributed by our instructors, please visit our [GitHub Home](https://github.com/XAIStudyGroup)
 
 ## Instructors  
-Since this is a peer-mentoring learning space, we do not hold instructors to the same high standard for a real classroom. You can choose a method, code a working example of using this method to explain your machine learning or deep learning model, and show how you do it to the audience. You also need to demonstrate **how this technique help you to understand your model better**. We will post videos of sample teaching in the future. 
+Since this is a peer-mentoring learning space, we do not hold instructors to the same high standard for a real classroom. You can choose a method, code a working example of using this method to explain your machine learning or deep learning model, and show how you do it to the audience. You also need to demonstrate **how this technique help you to understand your model better**. 
 
 We welcome any upper-level undergraduate students, master's students, and PhD students to try on the role of instructors. Develop your code on your own and let me know when the repository is ready to be forked.
 
@@ -40,7 +40,7 @@ Open an issue in this repository, so we will see it.
 As a learner, you will learn techniques that can be used to explain your own machine learning or deep learning models, which will make you more competitive on the job market when the majority of people only know how to build their models and assess models with standard metrics such as F1 scores. As an instructor, you learn teaching skills, curriculum development skills, and the experience of working with a diverse group of learners. 
 
 ### What is the format of this study group?
-For each session, one instructor will walk the audience through a working example of an explainable AI method (see the list here). The audience can code along or just watch how the instructor does it. 
+For each session, one instructor will walk the audience through a working example of an explainable AI method.
 
 ## Privacy
 Recordings are kept for 30 days, and links are only available to group members. 
