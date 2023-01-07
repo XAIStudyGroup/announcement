@@ -17,7 +17,7 @@ Explainable AI study group aims to create a low-pressure, peer-mentoring learnin
 To attend our sessions, you only need to have two types of IDEs (Integrated programming environment) installed on your computer and know how to use them. One for R and one for Python, since we allow instructors to choose which language they want to code their examples in. No prior experience in ML is needed, but having it is a plus.
 
 ## Logistics  
-If you would like to recieve updates on our sessions, please make sure you are a viewer of the "XAI study group documentation" in Box. I use Box's "mail all" function to update your about upcoming events, and I keep information that I don't feel comfortable putting on GitHub on the Box documentation (closed membership), such as Zoom session recordings.
+If you would like to recieve updates on our sessions, please make sure you are a viewer of the [**"XAI study group documentation"**](https://uofi.app.box.com/notes/870777775192) in Box. I use Box's "mail all" function to update your about upcoming events, and I keep information that I don't feel comfortable putting on GitHub on the Box documentation (closed membership), such as Zoom session recordings.
 
 To view all the repositories contributed by our instructors, please visit our [GitHub Home](https://github.com/XAIStudyGroup)
 
@@ -34,11 +34,12 @@ Open an issue in this repository, so we will see it.
 ## Q&A
 ### What is the end goal of this study group? 
 1. Learn techniques to explain your machine learning model
-2. Horn your teaching skills if you decide to be an instructor
-3. Help each other to learn and make friends
+2. Prepare to show your potential employers that you know how your model works 
+3. Horn your teaching skills if you decide to be an instructor
+4. Help each other to learn and make friends
 
 ### What skills will I gain?  
-As a learner, you will learn techniques that can be used to explain your own machine learning or deep learning models, which will make you more competitive on the job market when the majority of people only know how to build their models and assess models with standard metrics such as F1 scores. As an instructor, you learn teaching skills, curriculum development skills, and the experience of working with a diverse group of learners. 
+As a learner, you will learn techniques that can be used to **explain** your own machine learning or deep learning models, which will make you more competitive on the job market when the majority of people only know how to build their models and assess models with standard metrics such as F1 scores. As an instructor, you learn teaching skills, curriculum development skills, and the experience of working with a diverse group of learners. 
 
 ### What is the format of this study group?
 For each session, one instructor will walk the audience through a working example of an explainable AI method.
