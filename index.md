@@ -3,7 +3,7 @@
 Explainable AI study group aims to create a low-pressure, peer-mentoring learning space for students to learn and practice explainable AI (XAI) techniques. For each session, one instructor will walk the audience through a working example of an explainable AI method. Unlike conventional reading groups, this group emphasizes hands-on learning. And learners do not need to prepare before the sessions. You are welcome to "watch" this repository for any updates.
 
 ## Sessions
-### Fall 2022
+### Spring 2023
 coming soon
 
 ### Spring 2022
