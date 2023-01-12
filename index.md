@@ -5,7 +5,7 @@ Explainable AI study group aims to create a low-pressure, peer-mentoring learnin
 ## Sessions
 ### Spring 2023
 - [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Overview of Interpretability (Feb 11, 2023)  [**Click here to register**](https://illinois.zoom.us/meeting/register/tZYkdOiprzouH9T4bJueg9derOTGOywkW97K)
-- [Hannah Smith](https://ischool.illinois.edu/people/hannah-smith): Counterfactual Explanation (Feb 25, 2023)  [**Click here to register**](https://illinois.zoom.us/meeting/register/tZYkdOiprzouH9T4bJueg9derOTGOywkW97K)
+- [Hannah Smith](https://ischool.illinois.edu/people/hannah-smith): Counterfactual Explanation (Feb 25, 2023)  [**Click here to register**](https://illinois.zoom.us/meeting/register/tZcqd-Ggqj4rGN10HOCzezS7_roKTeYWWxCI)
 - [Yuanxi Fu](https://ischool.illinois.edu/people/yuanxi-fu): Partial dependence plot (Mar 11, 2023)  [**Click here to register**](https://illinois.zoom.us/meeting/register/tZ0ucu6sqzspHdX6ArEEAfoXzok8JZefUnKY)
 
 ### Spring 2022
