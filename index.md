@@ -46,4 +46,4 @@ As a learner, you will learn techniques that can be used to **explain** your own
 For each session, one instructor will walk the audience through a working example of an explainable AI method.
 
 ## Privacy
-Recordings are kept for 30 days, and links are only available to group members. 
+Recordings are kept for 14 days, and links are only available to group members. 
